@@ -1,3 +1,6 @@
+![image](https://github.com/Junaid-Ahmad-69/Admin_Dashboard_SyncFusion/assets/85307602/e2d2b989-9c3e-4c36-92f7-db5390ffd4b3)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
